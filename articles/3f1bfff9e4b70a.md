@@ -1,5 +1,5 @@
 ---
-title: "Hello World"
+title: "Hello World !!"
 emoji: "🌊"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["zenn", "はじめての投稿", "自己紹介", "Markdown"]
